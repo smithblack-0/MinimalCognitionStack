@@ -1,5 +1,5 @@
 import torch
-from src.CognitionStack.SmartMoE.shard_ensemble import FeedforwardEnsemble
+from src.CognitionStack.smart_moe.shard_ensemble import FeedforwardEnsemble
 
 
 
